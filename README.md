@@ -1,4 +1,4 @@
 SQLi
 ====
 
-Sql injection hacks by 
+Websites databases will be posted here.
